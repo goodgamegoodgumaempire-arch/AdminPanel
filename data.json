@@ -1,0 +1,30 @@
+{
+  "staff": [
+    {
+      "name": "Faby A.",
+      "rank": "Founder",
+      "img": "link-poza",
+      "group": "COMMUNITY OWNERS"
+    },
+    {
+      "name": "FoxX",
+      "rank": "Founder",
+      "img": "link-poza",
+      "group": "COMMUNITY OWNERS"
+    }
+  ],
+  "updates": [
+    {
+      "title": "Update 1",
+      "message": "Descriere update",
+      "img": ""
+    }
+  ],
+  "sneakPeeks": [
+    {
+      "message": "Sneak Peek 1",
+      "url": "link-imagine",
+      "type": "image"
+    }
+  ]
+}
